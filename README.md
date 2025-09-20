@@ -13,4 +13,4 @@
 
 [RIT](https://www.rit.edu)
 
-! [awesome shockwave](https://solarisjapan.com/cdn/shop/products/514z7vXfk9L.jpg?v=1571443146)
+![awesome shockwave](https://solarisjapan.com/cdn/shop/products/514z7vXfk9L.jpg?v=1571443146)
